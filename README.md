@@ -1,3 +1,7 @@
+
+**<p align='center'>You can find the website live <a href="https://rohit15504.github.io/Shopping-cart/">here</a></p>**
+
+
 # Shopping Cart
 
 This project is a simple shopping cart application built using React. It allows users to add items to their cart, view the cart, and manage the quantities of items.
